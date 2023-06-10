@@ -41,3 +41,7 @@ Contributions to the Note App are welcome! If you would like to contribute, plea
 ## License
 
 This project is licensed under the MIT License. For more information, please see the [LICENSE](https://chat.openai.com/LICENSE) file.
+
+<div align="center">
+<img src="https://github.com/enesulkerr/Note-App/blob/master/image/Note-app.gif" width="300">
+<div align="center">
